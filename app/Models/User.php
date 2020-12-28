@@ -21,6 +21,7 @@ class User extends Authenticatable
         'password',
         'is_active',
         'avatar',
+        'phone',
         'user_token',
         'provider_name',
         'provider_id'
